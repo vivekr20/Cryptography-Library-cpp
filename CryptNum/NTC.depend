@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1352178217 source:c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc\main.cpp
+	<iostream>
+	"bigint.h"
+
+1352178153 source:c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc\bigint.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<cstdlib>
+	"bigint.h"
+
+1352176604 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc\bigint.h
+	<string>
+	<iostream>
+
+1353665155 source:c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+	"Cyphers.h"
+	"CypherRSA.h"
+	"Primality_and_Factorization.h"
+
+1353663930 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cryptnum.h
+	<string>
+	<iostream>
+
+1353662243 source:c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cryptnum.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1352446031 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\simplecyphers.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1353256319 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cyphers.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1352568052 source:c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cypherrsa.cpp
+	"CypherRSA.h"
+
+1352568026 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cypherrsa.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1352808702 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\factorization.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1353659638 c:\college\academics\4th year\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\primality_and_factorization.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1352568052 source:c:\college\academics\4th year\7th sem\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cypherrsa.cpp
+	"CypherRSA.h"
+
+1352568026 c:\college\academics\4th year\7th sem\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cypherrsa.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1356181059 c:\college\academics\4th year\7th sem\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cryptnum.h
+	<string>
+	<iostream>
+
+1353665340 source:c:\college\academics\4th year\7th sem\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+	"Cyphers.h"
+	"CypherRSA.h"
+	"Primality_and_Factorization.h"
+
+1353256319 c:\college\academics\4th year\7th sem\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\cyphers.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
+1353659638 c:\college\academics\4th year\7th sem\number theory and cryptography\project\code_blocks_project_ntc\ntc - cryptnum\primality_and_factorization.h
+	<iostream>
+	<cstring>
+	<string>
+	<cstdlib>
+	"CryptNum.h"
+
